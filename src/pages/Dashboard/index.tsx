@@ -3,7 +3,6 @@ import React from 'react';
 // import { Container } from './styles';
 
 const Dashboard: React.FC = () => {
-  console.log('koe');
   return <h1>Dashboard</h1>;
 };
 
